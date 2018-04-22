@@ -6,3 +6,8 @@ This is a mobile-friendly view of a ticket. It presents pretty much what it woul
 - Provide an estimate of when was the last time they touched this area of code
 - Provide a word cloud of what this area of code touches (we will use this to index the story)
 
+## MVP version
+
+Below is the MVP design
+
+![](./assets/ticket-view/details.png)
